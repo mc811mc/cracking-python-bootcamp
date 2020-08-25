@@ -1,2 +1,5 @@
 # cracking-python-bootcamp
-https://github.com/purcellconsult/Cracking-Python-Bootcamp
+
+Basic Python Projects Repository
+
+Credit - https://github.com/purcellconsult/Cracking-Python-Bootcamp
