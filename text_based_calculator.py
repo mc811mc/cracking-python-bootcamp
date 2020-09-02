@@ -39,7 +39,7 @@ print("√", a1, "=", sqrt)
 a1 = float(input("Exponentiation - Enter base number: "))
 a2 = float(input("Enter power: "))
 exp = math.pow(a1, a2)
-print(a1, "raised to the power of ", a2, "is", exp)
+print(a1, "raised to the power of", a2, "is", exp)
 
 #sin
 a1 = float(input("Sin - Enter angle: "))
