@@ -1,5 +1,7 @@
 from math import sqrt
 
+data = [1,2,3]
+
 #total 
 def total():
     return (len(data))
