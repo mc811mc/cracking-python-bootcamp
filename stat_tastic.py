@@ -1,25 +1,41 @@
-DATA = 'sample_dataset'
-with open(DATA) as file:
+#import data
+data = 'sample_dataset'
+with open(data) as file:
     for line in file:
         pass
-
+    
+#total 
 def total():
-    pass
-def summation(DATA):
+    return (len(data))
+
+#summation
+def summation():
     sum = 0
-    for x in DATA:
+    for x in data:
         sum += x
+        x += 1
     return sum
 
+#mean (average)
 def mean():
-    pass
-def std_dev():
-    pass
-def median():
-    pass
-def minimum():
-    pass
-def maximum():
-    pass
+    sum = 0
+    for x in data:
+        sum += x
+        x += 1
+    average = sum / len(data)
+    return average
 
-summation(DATA)
+#standard deviation
+def std():
+    sum = 0
+    for x in data:
+        sum += x
+        x += 1
+    average = sum / len(data)
+    for x in data:
+        diff = x - average
+        sqt  = diff ** 2
+        std += sqt / len(data)
+    return std
+
+
