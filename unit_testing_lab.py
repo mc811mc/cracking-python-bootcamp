@@ -20,7 +20,7 @@ class UnitTesting(unittest.TestCase):
         self.assertEqual(A, chr(65))
 
     def test_dict(self):
-        self.assert(, dict())
+        self.assertEqual(dict(a=1, b=2, c=3, d=4), {'a': 1, 'b': 2, 'c': 3, 'd': 4})
 
     def binary(self):
         self.assert(, divmod())
