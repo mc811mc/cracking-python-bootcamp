@@ -1,5 +1,18 @@
-# cracking-python-bootcamp
+# Cracking Python Bootcamp
 
-Basic Python Projects Repository
+Free Python Course by https://github.com/purcellconsult
 
-Credit - https://github.com/purcellconsult/Cracking-Python-Bootcamp
+## Projects
+
+* Text Based Calculator
+* Rolling Dice Simulator
+* Additive Secret Number Guessing Game
+* Las Vegas Sports Calculator
+* Fantasy Text Game
+* State Lottery Simulator
+* Virtual ATM
+* Web Parser
+
+## Creator
+
+https://github.com/purcellconsult/Cracking-Python-Bootcamp
