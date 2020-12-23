@@ -1,6 +1,6 @@
 # Cracking Python Bootcamp
 
-Free Python Course by [Purcell Consult] (https://github.com/purcellconsult)
+Free Python Course by [Purcell Consult](https://github.com/purcellconsult)
 
 ## Projects
 
@@ -13,4 +13,4 @@ Free Python Course by [Purcell Consult] (https://github.com/purcellconsult)
 * Virtual ATM
 * Web Parser
 
-## [Source] (https://github.com/purcellconsult/Cracking-Python-Bootcamp)
+## [Source](https://github.com/purcellconsult/Cracking-Python-Bootcamp)
