@@ -101,13 +101,13 @@ if ally == "y" and enemy == "y":
 
     However, in a far far distant land, there lived their nemesis Villian {villian} always looking for the oportunity to seize the Kingdom of {kingdom}.
 
-    On a Sunday morning, {villian} and his army led by {thief}, {sorcerer}, and {rogue} 
+    On a Sunday morning, Villian {villian} and his army led by Thief {thief}, Sorcerer {sorcerer}, and Rogue {rogue} 
     pillaged their land, stole precious resources, and brutally attacked their villagers.
         
-    Filled with rage, {leader_title} {name} and {partner_title} {partner_name} with the help of {paladin}, {wizard}, and {warrior} valiantly fought back 
-    and defeated {villian} after {year} years of fierce fighting.
+    Filled with rage, {leader_title} {name} and {partner_title} {partner_name} with the help of Paladin {paladin}, Wizard {wizard}, and Warrior {warrior} valiantly fought back 
+    and defeated Villian {villian} after {year} years of fierce fighting.
 
-    Order was finally restored with {villian} taken to jail deep in their kingdom.
+    Order was finally restored with Villian {villian} taken to jail deep in their kingdom.
 
     """
     print(yes_yes_story)
@@ -127,8 +127,8 @@ elif ally == "y" and enemy == "n":
 
     However, in a far far distant land, there lived their nemesis Villian {villian} always looking for the oportunity to seize the Kingdom of {kingdom}.
 
-    Despite {villian}'s ambitions, the Kingdom of {kingdom} has always been under the proctection of the three mighty heroes
-    known as {paladin}, {wizard}, and {warrior}. The trio held back {villian} to even take attempts on conquering their kingdom.
+    Despite Villian {villian}'s ambitions, the Kingdom of {kingdom} has always been under the proctection of the three mighty heroes
+    known as Paladin {paladin}, Wizard {wizard}, and Warrior {warrior}. The trio held back Villian {villian} to even take attempts on conquering their kingdom.
 
     The Kingdom of {kingdom} was never in peril and everyone lived a happy life. 
 

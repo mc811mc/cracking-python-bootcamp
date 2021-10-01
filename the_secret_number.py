@@ -1,6 +1,6 @@
 from random import randint
 
-#user input for unlimited or number of chances
+# user input for unlimited or number of chances
 x_1 = 1
 x_2 = 100
 answer = randint(x_1, x_2)
@@ -11,7 +11,7 @@ choice = 0
 max_value = x_1 - 1
 min_value = x_2 + 1
 
-#program start
+# program start
 mode = str(input("Do you want unlimited tries? Enter 'y' for yes and 'n' for no. Your choice: "))
 mode = mode.lower()
 if mode == "y":

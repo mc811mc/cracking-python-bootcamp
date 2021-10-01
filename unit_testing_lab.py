@@ -22,44 +22,47 @@ class UnitTesting(unittest.TestCase):
     def test_dict(self):
         self.assertEqual(dict(a=1, b=2, c=3, d=4), {'a': 1, 'b': 2, 'c': 3, 'd': 4})
 
-    def binary(self):
+    def test_divmond(self):
         self.assert(, divmod())
     
-    def binary(self):
+    def test_enumerate(self):
         self.assert(, enumerate())
 
-    def binary(self):
+    def test_float(self):
         self.assert(, float())
 
-    def binary(self):
+    def test_format(self):
         self.assert(, hex())
 
-    def binary(self):
+    def test_hex(self):
         self.assert(, int())
 
-    def binary(self):
+    def test_int(self):
         self.assert(, len())
 
-    def binary(self):
+    def test_len(self):
         self.assert(, list())
 
-    def binary(self):
+    def test_list(self):
         self.assert(, max())
     
-    def binary(self):
+    def test_max(self):
         self.assert(, min())
 
-    def binary(self):
+    def test_min(self):
         self.assert(, next())
 
-    def binary(self):
+    def test_next(self):
         self.assert(, oct())
 
-    def binary(self):
+    def test_oct(self):
         self.assert(, sorted())
 
-    def binary(self):
+    def test_sorted(self):
         self.assert(, sum())
+    
+    def test_sum(self):
+        self.assertEqual(5 + 15, 20)
 
 if __name__ == '__main__':
     unit_testing_lab.main()
